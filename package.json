@@ -5,7 +5,7 @@
     "lerna": "^3.10.7"
   },
   "scripts": {
-    "update-version": "lerna publish  --skip-git --skip-npm --force-publish '*'",
+    "update-version": "lerna publish  --skip-npm --force-publish '*'",
     "clean": "lerna run clean",
     "check-packages": "npm run clean"
   }
