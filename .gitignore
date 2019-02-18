@@ -1,3 +1,5 @@
 /node_modules
 /packages/videos/node_modules
 /packages/videos/dist
+/packages/state/node_modules
+/packages/state/dist
