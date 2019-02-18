@@ -1,9 +1,9 @@
-37 error Error: Command failed: git push --follow-tags --no-verify origin master
-37 error fatal: HttpRequestException encountered.
-37 error    Si � verificato un errore durante l'invio della richiesta.
-37 error bash: /dev/tty: No such device or address
-37 error error: failed to execute prompt script (exit code 1)
-37 error fatal: could not read Username for 'https://github.com': No error
-37 error
-37 error     at makeError (C:\Users\CCavallo\Desktop\workshop_react_2.0\lerna_test\node_modules\execa\index.js:174:9)
-37 error     at Promise.all.then.arr (C:\Users\CCavallo\Desktop\workshop_react_2.0\lerna_test\node_modules\execa\index.js:278:16)
+48 error Error: Command failed: git push --follow-tags --no-verify origin master
+48 error fatal: HttpRequestException encountered.
+48 error    Si � verificato un errore durante l'invio della richiesta.
+48 error bash: /dev/tty: No such device or address
+48 error error: failed to execute prompt script (exit code 1)
+48 error fatal: could not read Username for 'https://github.com': No error
+48 error
+48 error     at makeError (C:\Users\CCavallo\Desktop\workshop_react_2.0\lerna_test\node_modules\execa\index.js:174:9)
+48 error     at Promise.all.then.arr (C:\Users\CCavallo\Desktop\workshop_react_2.0\lerna_test\node_modules\execa\index.js:278:16)
